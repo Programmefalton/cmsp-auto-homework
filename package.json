@@ -4,8 +4,8 @@
   "description": "Bot que responde todas as atividades do aplicativo CMSP usando o engenharia reversa.",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.21.1",
-    "qs": "^6.10.1",
+    "axios": "^0.28.0",
+    "qs": "^6.10.3",
     "readline-sync": "^1.4.10"
   },
   "scripts": {
